@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(120deg, #fff2fc, #fff2fc, #fff2fc);
+    background: linear-gradient(120deg, #a9e4e8, #a9e4e8, #a9e4e8);
     color: #333;
     text-align: center;
 }
 
 header {
-    background-color: #e28743;
+    background-color: #ead095;
     color: white;
     padding: 2rem;
 }
@@ -41,7 +41,7 @@ header p {
 
 .project-card h2 {
     font-size: 1.5rem;
-    color: #e28743;
+    color: #ead095;
 }
 
 .project-card p {
@@ -53,7 +53,7 @@ header p {
     margin-top: 1rem;
     text-decoration: none;
     color: white;
-    background-color: #e28743;
+    background-color: #ead095;
     padding: 0.5rem 1rem;
     border-radius: 4px;
 }
