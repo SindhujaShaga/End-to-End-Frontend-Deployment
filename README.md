@@ -90,9 +90,16 @@ Before you begin, ensure you have the following:
     * Once the pipeline runs successfully, your application will be accessible via your EC2 instance's public IP address.
 
 ---
+ 
 
 ## ▶️ Usage
 
 After the pipeline has been successfully executed, you can access your deployed frontend application by navigating to the public IP address of your EC2 instance in a web browser.
+
+---
+
+## Author
+**Sindhuja Shaga** — *DevOps Engineer / CI/CD Enthusiast*  
+[LinkedIn](https://www.linkedin.com/in/sindhuja-shaga/) | [GitHub](https://github.com/SindhujaShaga?tab=repositories) 
 
 ---
